@@ -79,6 +79,11 @@
                                 </li>
                                 <li class="link-list__item">
                                     <div class="link-list__box">
+                                        <a class="link-list__link" href="https://appnav-prod.ec.middlebury.edu/applicationNavigator">Banner Admin</a>
+                                    </div>
+                                </li>
+                                <li class="link-list__item">
+                                    <div class="link-list__box">
                                         <a class="link-list__link" href="https://map.middlebury.edu">Campus Map</a>
                                     </div>
                                 </li>
